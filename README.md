@@ -5,12 +5,12 @@ NSAuthentication
 
 1. Make sure you have cocoapod install 
 
-    gem install cocoapod 
+        gem install cocoapod 
     
 
 2. Change directory to NSAuthentication and run : 
 
-    pod install 
+        pod install 
     
     
     
@@ -19,4 +19,4 @@ NSAuthentication
 
 1. Install necessary gems 
 
-    bundle install 
+        bundle install 
