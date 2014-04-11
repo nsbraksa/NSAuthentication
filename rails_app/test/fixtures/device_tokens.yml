@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  ip: MyString
+  expires: 2014-04-08
+  token: MyString
+
+two:
+  ip: MyString
+  expires: 2014-04-08
+  token: MyString

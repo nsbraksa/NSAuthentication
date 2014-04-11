@@ -1,0 +1,9 @@
+platform :ios , '7.0'
+
+
+pod 'SSKeychain'
+pod 'AFNetworking' 
+pod 'SVProgressHUD'
+pod 'SDWebImage'
+pod 'TestFlightSDK'
+pod 'Instabug'
