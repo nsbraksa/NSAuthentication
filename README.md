@@ -9,7 +9,7 @@ NSAuthentication
         $ pod setup
     
 
-2. Change directory to NSAuthentication and run : 
+2. Change directory to NSAuthentication and install the necessary pods (pods are like gems for iOS) 
 
         $ pod install 
     
