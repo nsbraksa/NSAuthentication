@@ -3,15 +3,14 @@ NSAuthentication
 
 # iOS app 
 
-1. Make sure you have cocoapod install 
+1. Make sure you have cocoapods install 
 
-        gem install cocoapod 
+        $ sudo gem install cocoapods 
     
 
 2. Change directory to NSAuthentication and run : 
 
-        pod install 
-    
+        $ pod install 
     
     
     
@@ -19,4 +18,4 @@ NSAuthentication
 
 1. Install necessary gems 
 
-        bundle install 
+        $ bundle install 
