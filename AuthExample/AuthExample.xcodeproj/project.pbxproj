@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		30B0C9CD18FC88DA009EDB44 /* MainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 30B0C9CC18FC88DA009EDB44 /* MainViewController.m */; };
 		30D3662918F728C3005845D9 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 30D3662818F728C3005845D9 /* Foundation.framework */; };
 		30D3662B18F728C3005845D9 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 30D3662A18F728C3005845D9 /* CoreGraphics.framework */; };
 		30D3662D18F728C3005845D9 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 30D3662C18F728C3005845D9 /* UIKit.framework */; };
@@ -37,6 +38,8 @@
 
 /* Begin PBXFileReference section */
 		2F3821B6131F4DDBB88FD143 /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		30B0C9CB18FC88DA009EDB44 /* MainViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainViewController.h; sourceTree = "<group>"; };
+		30B0C9CC18FC88DA009EDB44 /* MainViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainViewController.m; sourceTree = "<group>"; };
 		30D3662518F728C3005845D9 /* AuthExample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AuthExample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		30D3662818F728C3005845D9 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		30D3662A18F728C3005845D9 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -132,6 +135,8 @@
 				30D3664018F728C4005845D9 /* Images.xcassets */,
 				30D3666318F72BBD005845D9 /* constants.h */,
 				30D3662F18F728C4005845D9 /* Supporting Files */,
+				30B0C9CB18FC88DA009EDB44 /* MainViewController.h */,
+				30B0C9CC18FC88DA009EDB44 /* MainViewController.m */,
 			);
 			path = AuthExample;
 			sourceTree = "<group>";
@@ -300,6 +305,7 @@
 				30D3666118F728E7005845D9 /* LoginViewController.m in Sources */,
 				30D3663918F728C4005845D9 /* AppDelegate.m in Sources */,
 				30D3663518F728C4005845D9 /* main.m in Sources */,
+				30B0C9CD18FC88DA009EDB44 /* MainViewController.m in Sources */,
 				30D3666218F728E7005845D9 /* SignupViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

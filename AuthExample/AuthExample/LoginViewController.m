@@ -80,4 +80,10 @@
               [SVProgressHUD showErrorWithStatus:@"Make sure you're connected to the internet"];
           }];
 }
+
+- (IBAction)backgroundTap:(id)sender {
+    [self.emailField resignFirstResponder];
+    [self.passwordField resignFirstResponder];
+}
+
 @end
